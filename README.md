@@ -25,7 +25,7 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```sh
-    git clone <YOUR_REPOSITORY_URL>
+    git clone https://github.com/vikihacker1/cloud-security-dashboard.git
     cd aws-cloud-security-dashboard
     ```
 
