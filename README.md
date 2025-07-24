@@ -2,7 +2,7 @@
 
 This project is a simple, Python-based web application that scans an AWS environment for common security misconfigurations and displays them in a user-friendly dashboard.
 
-![Dashboard Screenshot](dashboard-screenshot)
+![Dashboard Screenshot](dashboard-screenshot.png)
 
 ## Key Features
 
