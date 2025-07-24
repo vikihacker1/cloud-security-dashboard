@@ -2,7 +2,7 @@
 
 This project is a simple, Python-based web application that scans an AWS environment for common security misconfigurations and displays them in a user-friendly dashboard.
 
-![Dashboard Screenshot](dashboard-screenshot)
+![Dashboard Screenshot](dashboard-screenshot.png)
 
 ## Key Features
 
@@ -25,7 +25,7 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```sh
-    git clone <YOUR_REPOSITORY_URL>
+    git clone https://github.com/vikihacker1/cloud-security-dashboard.git
     cd aws-cloud-security-dashboard
     ```
 
